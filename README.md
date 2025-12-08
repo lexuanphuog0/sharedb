@@ -1,5 +1,5 @@
 # ShareDB
-012
+0123
   [![NPM Version](https://img.shields.io/npm/v/sharedb.svg)](https://npmjs.org/package/sharedb)
   ![Test](https://github.com/share/sharedb/workflows/Test/badge.svg)
   [![Coverage Status](https://coveralls.io/repos/github/share/sharedb/badge.svg?branch=master)](https://coveralls.io/github/share/sharedb?branch=master)
